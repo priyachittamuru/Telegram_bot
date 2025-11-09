@@ -1,4 +1,4 @@
-# Telegram_bot
+# Telegram_bot 🤖
 This Telegram bot is a friendly AI assistant for Team Chirag, designed to answer user questions naturally and contextually. It remembers past conversations, provides quick replies to FAQs, and maintains a helpful, human-like tone — making learning and communication seamless for students and community members.
 
 This repository demonstrates how to build a **context-aware Telegram bot** using **Zapier**, **OpenAI**, and **Telegram Bot API**. The bot can remember conversations, answer FAQs, and provide natural, real-time responses.
